@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intranet</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="nombreAlumno">
+        Nombre: Francisco Gajardo
+    </string>
+    <string name="carreraAlumno">
+    Carrera : Ingenieria en informatica
+    </string>
+    <string name="edadAlumno">
+         Edad : 25
+    </string>
+    <string name="semestreAlumno">
+    Semestre : 6
+    </string>
+</resources>
